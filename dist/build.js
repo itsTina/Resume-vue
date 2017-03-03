@@ -8730,7 +8730,7 @@ var Component = __webpack_require__(2)(
   /* cssModules */
   null
 )
-Component.options.__file = "E:\\常用\\MuseUI-test\\src\\components\\AppCnt.vue"
+Component.options.__file = "E:\\常用\\Resume-vue\\src\\components\\AppCnt.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] AppCnt.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -8741,9 +8741,9 @@ if (false) {(function () {
   if (!hotAPI.compatible) return
   module.hot.accept()
   if (!module.hot.data) {
-    hotAPI.createRecord("data-v-2fc63a0c", Component.options)
+    hotAPI.createRecord("data-v-abd79dca", Component.options)
   } else {
-    hotAPI.reload("data-v-2fc63a0c", Component.options)
+    hotAPI.reload("data-v-abd79dca", Component.options)
   }
 })()}
 
@@ -9227,7 +9227,7 @@ exports = module.exports = __webpack_require__(0)();
 
 
 // module
-exports.push([module.i, "\n.code[data-v-5f30b97c] {\n  display: none;\n}\n", ""]);
+exports.push([module.i, "\n.code[data-v-dc2bd00a] {\n  display: none;\n}\n", ""]);
 
 // exports
 
@@ -9241,7 +9241,7 @@ exports = module.exports = __webpack_require__(0)();
 
 
 // module
-exports.push([module.i, "\n.htmlMode[data-v-691bbeec] {\n  animation: flip 2s;\n}\n@keyframes flip {\nfrom {\n    opacity: 0;\n}\nto {\n    opacity: 1;\n}\n}\n", ""]);
+exports.push([module.i, "\n.htmlMode[data-v-e4e39f66] {\n  animation: flip 2s;\n}\n@keyframes flip {\nfrom {\n    opacity: 0;\n}\nto {\n    opacity: 1;\n}\n}\n", ""]);
 
 // exports
 
@@ -9260,11 +9260,11 @@ var Component = __webpack_require__(2)(
   /* template */
   __webpack_require__(20),
   /* scopeId */
-  "data-v-691bbeec",
+  "data-v-e4e39f66",
   /* cssModules */
   null
 )
-Component.options.__file = "E:\\常用\\MuseUI-test\\src\\components\\ResumeEditor.vue"
+Component.options.__file = "E:\\常用\\Resume-vue\\src\\components\\ResumeEditor.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] ResumeEditor.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -9275,9 +9275,9 @@ if (false) {(function () {
   if (!hotAPI.compatible) return
   module.hot.accept()
   if (!module.hot.data) {
-    hotAPI.createRecord("data-v-691bbeec", Component.options)
+    hotAPI.createRecord("data-v-e4e39f66", Component.options)
   } else {
-    hotAPI.reload("data-v-691bbeec", Component.options)
+    hotAPI.reload("data-v-e4e39f66", Component.options)
   }
 })()}
 
@@ -9298,11 +9298,11 @@ var Component = __webpack_require__(2)(
   /* template */
   __webpack_require__(19),
   /* scopeId */
-  "data-v-5f30b97c",
+  "data-v-dc2bd00a",
   /* cssModules */
   null
 )
-Component.options.__file = "E:\\常用\\MuseUI-test\\src\\components\\StyleEditor.vue"
+Component.options.__file = "E:\\常用\\Resume-vue\\src\\components\\StyleEditor.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] StyleEditor.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -9313,9 +9313,9 @@ if (false) {(function () {
   if (!hotAPI.compatible) return
   module.hot.accept()
   if (!module.hot.data) {
-    hotAPI.createRecord("data-v-5f30b97c", Component.options)
+    hotAPI.createRecord("data-v-dc2bd00a", Component.options)
   } else {
-    hotAPI.reload("data-v-5f30b97c", Component.options)
+    hotAPI.reload("data-v-dc2bd00a", Component.options)
   }
 })()}
 
@@ -9348,7 +9348,7 @@ module.exports.render._withStripped = true
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
-     require("vue-hot-reload-api").rerender("data-v-2fc63a0c", module.exports)
+     require("vue-hot-reload-api").rerender("data-v-abd79dca", module.exports)
   }
 }
 
@@ -9375,7 +9375,7 @@ module.exports.render._withStripped = true
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
-     require("vue-hot-reload-api").rerender("data-v-5f30b97c", module.exports)
+     require("vue-hot-reload-api").rerender("data-v-dc2bd00a", module.exports)
   }
 }
 
@@ -9400,7 +9400,7 @@ module.exports.render._withStripped = true
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
-     require("vue-hot-reload-api").rerender("data-v-691bbeec", module.exports)
+     require("vue-hot-reload-api").rerender("data-v-e4e39f66", module.exports)
   }
 }
 
@@ -9415,13 +9415,13 @@ var content = __webpack_require__(13);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(3)("8aa204ae", content, false);
+var update = __webpack_require__(3)("3faed75e", content, false);
 // Hot Module Replacement
 if(false) {
  // When the styles change, update the <style> tags
  if(!content.locals) {
-   module.hot.accept("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-2fc63a0c!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AppCnt.vue", function() {
-     var newContent = require("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-2fc63a0c!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AppCnt.vue");
+   module.hot.accept("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-abd79dca!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AppCnt.vue", function() {
+     var newContent = require("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-abd79dca!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AppCnt.vue");
      if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
      update(newContent);
    });
@@ -9441,13 +9441,13 @@ var content = __webpack_require__(14);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(3)("9fe078f2", content, false);
+var update = __webpack_require__(3)("ef2a99e8", content, false);
 // Hot Module Replacement
 if(false) {
  // When the styles change, update the <style> tags
  if(!content.locals) {
-   module.hot.accept("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-5f30b97c&scoped=true!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./StyleEditor.vue", function() {
-     var newContent = require("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-5f30b97c&scoped=true!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./StyleEditor.vue");
+   module.hot.accept("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-dc2bd00a&scoped=true!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./StyleEditor.vue", function() {
+     var newContent = require("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-dc2bd00a&scoped=true!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./StyleEditor.vue");
      if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
      update(newContent);
    });
@@ -9467,13 +9467,13 @@ var content = __webpack_require__(15);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(3)("594030ce", content, false);
+var update = __webpack_require__(3)("496a3d64", content, false);
 // Hot Module Replacement
 if(false) {
  // When the styles change, update the <style> tags
  if(!content.locals) {
-   module.hot.accept("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-691bbeec&scoped=true!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ResumeEditor.vue", function() {
-     var newContent = require("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-691bbeec&scoped=true!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ResumeEditor.vue");
+   module.hot.accept("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-e4e39f66&scoped=true!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ResumeEditor.vue", function() {
+     var newContent = require("!!../../node_modules/css-loader/index.js!../../node_modules/vue-loader/lib/style-rewriter.js?id=data-v-e4e39f66&scoped=true!../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ResumeEditor.vue");
      if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
      update(newContent);
    });
@@ -9512,7 +9512,7 @@ new _vue2.default({
     data: {
         msg: '',
         stylemsg: '',
-        innercss: '/*\u5F00\u59CB\u6837\u5F0F\u7F16\u8F91\uFF1B*/\n        html {\n          color: rgb(222,222,222); background: rgb(0,43,54); \n        }\n        * {\n          -webkit-transition: all .3s;\n          transition: all .3s;\n        }\n        .styleEditor {\n          padding: .5em;\n          border: 1px solid;margin: .5em;\n          overflow: auto;\n          width: 45vw; height: 90vh;\n          background: rgb(28, 40, 62);\n        }\n        .resumeEditor{\n          position: fixed; right: 0; top: 0;\n          padding: .5em;  margin: .5em;\n          width: 48vw; height: 90vh; \n          border: 1px solid;\n          background: white; color: #222;\n          overflow: auto;\n          background: rgb(28, 40, 62);\n        }\n        /* \u518D\u5BF9 HTML \u52A0\u70B9\u6837\u5F0F */\n.resumeEditor{\n  padding: 2em;\n}\n.resumeEditor h2{\n  display: inline-block;\n  border-bottom: 1px solid;\n  margin: 1em 0 .5em;\n}\n.resumeEditor ul,.resumeEditor ol{\n  list-style: none;\n}\n.resumeEditor ul> li::before{\n  content: \'\u2022\';\n  margin-right: .5em;\n}\n.resumeEditor ol {\n  counter-reset: section;\n}\n.resumeEditor ol li::before {\n  counter-increment: section;            \n  content: counters(section, ".") " ";  \n  margin-right: .5em;\n}\n.resumeEditor blockquote {\n  margin: 1em;\n  padding: .5em;\n  background: #ddd;\n}',
+        innercss: '/*\u5F00\u59CB\u6837\u5F0F\u7F16\u8F91\uFF1B*/\n        html {\n          color: rgb(222,222,222); background: rgb(0,43,54); \n        }\n        * {\n          -webkit-transition: all .3s;\n          transition: all .3s;\n        }\n        .styleEditor {\n          padding: .5em;\n          border: 1px solid;margin: .5em;\n          overflow: auto;\n          width: 45vw; height: 90vh;\n          background: rgb(28, 40, 62);\n        }\n        .resumeEditor{\n          position: fixed; right: 0; top: 0;\n          padding: .5em;  margin: .5em;\n          width: 48vw; height: 90vh; \n          border: 1px solid;\n          background: white; color: #222;\n          overflow: auto;          \n        }\n        /* \u518D\u5BF9 HTML \u52A0\u70B9\u6837\u5F0F */\n        .resumeEditor{\n          padding: 2em;\n        }\n        .resumeEditor h2{\n          display: inline-block;\n          border-bottom: 1px solid;\n          margin: 1em 0 .5em;\n        }\n        .resumeEditor ul,.resumeEditor ol{\n          list-style: none;\n        }\n        .resumeEditor ul> li::before{\n          content: \'\u2022\';\n          margin-right: .5em;\n        }\n        .resumeEditor ol {\n          counter-reset: section;\n        }\n        .resumeEditor ol li::before {\n          counter-increment: section;            \n          content: counters(section, ".") " ";  \n          margin-right: .5em;\n        }\n        .resumeEditor blockquote {\n          margin: 1em;\n          padding: .5em;\n          background: #ddd;\n        }',
         innertxt: '\u6211\u7684\u7B80\u5386\uFF1A\n        \n\u9A6C\u5A77\n----\n\n\u8D44\u6DF1\u524D\u7AEF\u5DE5\u7A0B\u5E08\uFF0C2012\u5E74\u4E8E\u6D59\u6C5F\u519C\u6797\u5927\u5B66\u6BD5\u4E1A\uFF0C\u4E13\u4E1A\u8BA1\u7B97\u673A\u79D1\u5B66\u4E0E\u6280\u672F\u3002\n\n\u6280\u80FD\n----\n\n* \u524D\u7AEF\u5F00\u53D1\n* html5, es6\n* backbone, vue, webpack\n* nodejs\n\n\u5DE5\u4F5C\u7ECF\u5386\n----\n\n1. \u7F51\u65B0\u6052\u5929\n2. \u901A\u7B56\n\n\u94FE\u63A5\n----\n\n* [GitHub](https://github.com/itsTina)\n* [\u6211\u7684\u6587\u7AE0](https://www.zhihu.com/people/zhihusucks/pins/posts)\n\n> \u5982\u679C\u4F60\u559C\u6B22\u2026\u2026\n\n'
     },
     //render: h => h(Nav),/**/

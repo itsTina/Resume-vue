@@ -35,8 +35,7 @@ import App from './components/AppCnt.vue'
           width: 48vw; height: 90vh; 
           border: 1px solid;
           background: white; color: #222;
-          overflow: auto;
-          
+          overflow: auto;          
         }
         /* 再对 HTML 加点样式 */
         .resumeEditor{
